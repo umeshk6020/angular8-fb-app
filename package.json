@@ -13,7 +13,7 @@
     "node": "10.16.0",
     "npm": "6.9.0"
   },
-  "author": "Anil Vishvkarma",
+  
   "private": true,
   "dependencies": {
     "@angular/animations": "~8.2.13",
